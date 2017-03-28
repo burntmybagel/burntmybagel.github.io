@@ -2,5 +2,4 @@
 layout: post
 title: Something cheesy goes here 
 ---
-
-I have no idea what I am doing
+Eventually something meaningful will be posted here
