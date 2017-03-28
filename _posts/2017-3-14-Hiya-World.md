@@ -1,5 +1,5 @@
 ---
 layout: post
-title: Something cheesy goes here 
+title: Security, security, security
 ---
 Eventually something meaningful will be posted here
